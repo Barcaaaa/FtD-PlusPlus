@@ -1,4 +1,4 @@
-# **Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation **
+# Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation
 
 :fire: This is the official PyTorch implementation of our work. :fire:
 
