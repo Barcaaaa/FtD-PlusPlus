@@ -41,7 +41,7 @@ TRAIN:
     lambda_xm_src: 0.1
     lambda_xm_trg: 0.02
     lambda_cmkd: 0.01
-    lambda_pl: 0.1
+    lambda_pl: 1.0
 VAL:
   BATCH_SIZE: 1
   PERIOD: 10000
