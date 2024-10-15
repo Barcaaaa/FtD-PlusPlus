@@ -6,6 +6,7 @@
 ![framework](doc/framework.jpg)
 
 ## News
+* **2024-09-26** :loudspeaker: Our work, [UniDSeg](), has been accepted by NeurIPS 2024. Code will be soon!
 * **2024-09-10** :rocket: We release the code for FtD-PlusPlus. It's an extended version of [BFtD](https://doi.org/10.1145/3581783.3612013). 
 * **2024-07-21** :loudspeaker: Our work, [CLIP2UDA](https://openreview.net/pdf?id=Ai1ziPxtmr), has been accepted by ACM MM 2024. (https://github.com/Barcaaaa/CLIP2UDA)
 
@@ -127,6 +128,11 @@ CUDA_VISIBLE_DEVICES=0 python -W ignore xmuda/train_as_bftd_uni.py --cfg=configs
 CUDA_VISIBLE_DEVICES=0 python -W ignore xmuda/train_us_bftd_uni_ssda.py --cfg=configs/nuscenes_lidarseg/usa_singapore/ssda/bftd_pl.yaml
 CUDA_VISIBLE_DEVICES=0 python -W ignore xmuda/train_as_bftd_uni_ssda.py --cfg=configs/a2d2_semantic_kitti/ssda/bftd_pl.yaml
 ```
+
+## Experimental Results
+![table3](doc/table3.png)
+![table4](doc/table4.png)
+<img src="doc/table5.png" alt="Table 5" width="600">
 
 ## Acknowledgements
 
