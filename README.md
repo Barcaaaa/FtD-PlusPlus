@@ -1,4 +1,4 @@
-# Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation
+# Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation [TCSVT 2025]
 
 :fire: This is the official PyTorch implementation of our work. :fire:
 
@@ -6,9 +6,9 @@
 ![framework](doc/framework.jpg)
 
 ## News
-* **2024-09-26** :loudspeaker: Our new work, [UniDSeg](), has been accepted by NeurIPS 2024. Code will be soon!
-* **2024-09-10** :rocket: We release the code for FtD-PlusPlus. It's an extended version of [BFtD](https://doi.org/10.1145/3581783.3612013). 
-* **2024-07-21** :loudspeaker: Our new work, [CLIP2UDA](https://openreview.net/pdf?id=Ai1ziPxtmr), has been accepted by ACM MM 2024. (https://github.com/Barcaaaa/CLIP2UDA)
+* **2025-02** :loudspeaker: This work has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
+* **2024-10** :loudspeaker: Our new work, [UniDSeg](https://proceedings.neurips.cc/paper_files/paper/2024/file/b762632135b16f1225672f9fe2a9740b-Paper-Conference.pdf), has been accepted by NeurIPS 2024. [Code](https://github.com/Barcaaaa/UniDSeg)
+* **2024-09** :rocket: We release the code for FtD-PlusPlus. It's an extended version of [BFtD](https://doi.org/10.1145/3581783.3612013). 
 
 ## Getting Started
 
