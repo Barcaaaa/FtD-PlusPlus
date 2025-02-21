@@ -142,25 +142,23 @@ Code is built based on [xMUDA_journal](https://github.com/valeoai/xmuda_journal)
 
 If you find this project useful, please consider citing:
 ```bibtex
-@inproceedings{DBLP:conf/mm/WuXZ00SQ23,
+@article{DBLP:journals/corr/abs-2410-19446,
   author       = {Yao Wu and
                   Mingwei Xing and
                   Yachao Zhang and
                   Yuan Xie and
-                  Jianping Fan and
-                  Zhongchao Shi and
                   Yanyun Qu},
-  title        = {Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation
-                  via Bidirectional Fusion-then-Distillation},
-  booktitle    = {Proceedings of the 31st {ACM} International Conference on Multimedia,
-                  {MM} 2023, Ottawa, ON, Canada, 29 October 2023- 3 November 2023},
-  pages        = {490--498},
-  publisher    = {{ACM}},
-  year         = {2023},
-  url          = {https://doi.org/10.1145/3581783.3612013},
-  doi          = {10.1145/3581783.3612013},
-  timestamp    = {Tue, 20 Aug 2024 07:54:43 +0200},
-  biburl       = {https://dblp.org/rec/conf/mm/WuXZ00SQ23.bib},
+  title        = {Fusion-then-Distillation: Toward Cross-modal Positive Distillation
+                  for Domain Adaptive 3D Semantic Segmentation},
+  journal      = {CoRR},
+  volume       = {abs/2410.19446},
+  year         = {2024},
+  url          = {https://doi.org/10.48550/arXiv.2410.19446},
+  doi          = {10.48550/ARXIV.2410.19446},
+  eprinttype   = {arXiv},
+  eprint       = {2410.19446},
+  timestamp    = {Thu, 28 Nov 2024 21:32:42 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2410-19446.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
